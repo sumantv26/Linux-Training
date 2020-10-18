@@ -1,7 +1,7 @@
-https://linuxhint.com/30_bash_script_examples/
+ahttps://linuxhint.com/30_bash_script_examples/
 
 i want to learn 
 hello
 Linux is best
 Linux is awesome
-HAcktober fest
+I love Linux
