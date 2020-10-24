@@ -5,3 +5,4 @@ hello
 Linux is best
 Linux is awesome
 I love Linux
+Hello i am from techno
